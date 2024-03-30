@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Bebas Neue", sans-serif;
+  color: #4f9c4b;
+  font-weight: 400;
+  font-style: normal;
+  background-color: rgb(247 254 231);
+}
+
+b {
+  color: black
+}
